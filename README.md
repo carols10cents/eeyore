@@ -1,5 +1,7 @@
 # Eeyore
 
+[![Clippy Linting Result](https://clippy.bashy.io/github/carols10cents/eeyore/master/badge.svg)](https://clippy.bashy.io/github/carols10cents/eeyore/master/log)
+
 A lot of
 projects have issue trackers that feel out of control. Consider these
 other quotes, and how you feel when doing issue triage:
